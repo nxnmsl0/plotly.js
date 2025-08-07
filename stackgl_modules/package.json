@@ -58,6 +58,6 @@
     "ify-loader": "1.1.0",
     "node-polyfill-webpack-plugin": "^4.0.0",
     "webpack": "5.90.3",
-    "webpack-cli": "5.1.4"
+    "webpack-cli": "6.0.1"
   }
 }
